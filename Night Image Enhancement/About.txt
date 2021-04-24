@@ -1,0 +1,8 @@
+This Low Light Image Enhancement project is based on MIRnet.
+
+References
+https://github.com/soumik12345/MIRNet/
+https://github.com/swz30/MIRNet
+
+Zamir, Syed Waqas & Arora, Aditya & Khan, Salman & Hayat, Munawar & Khan, Fahad & Yang, Ming-Hsuan & Shao, Ling. (2020).
+Learning Enriched Features for Real Image Restoration and Enhancement. 10.1007/978-3-030-58595-2_30.
